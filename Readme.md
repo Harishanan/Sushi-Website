@@ -1,6 +1,6 @@
 # 🍣 Sushi Website
 
-A simple and responsive Sushi-themed landing page built to get hands-on practice with **HTML**, **CSS**, and basic **JavaScript** concepts. This project also explores integration with external libraries and deployment workflows.
+A simple Sushi-themed landing page built to get hands-on practice with **HTML**, **CSS**, and basic **JavaScript** concepts. This project also explores integration with external libraries and deployment workflows.
 
 ## 🚀 Live Demo
 
